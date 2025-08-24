@@ -26,4 +26,5 @@ Sample predictions with actual and predicted labels are displayed for better und
 
 #### This project demonstrates the application of Deep Learning for image classification, showcasing steps from data preprocessing to model deployment readiness. It provides an excellent foundation for experimenting with optimization techniques like Dropout, EarlyStopping, and hyperparameter tuning to improve performance further.
 
-To access the code, open the digit-classifier.ipynb file included in this repository.
+
+To access the code, open the "digit-classifier.ipynb" file included in this repository.
