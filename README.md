@@ -4,7 +4,7 @@
 
 This project demonstrates Handwritten Digit Recognition using a Neural Network built with TensorFlow and Keras. The dataset is based on MNIST-like handwritten digits, where each image is 28x28 pixels. The goal is to classify digits (0–9) with high accuracy using deep learning
 
-The workflow includes several key steps:
+### The workflow includes several key steps:
 
 ## Data Loading and Preprocessing 
 The dataset is loaded from a CSV file, features (pixel values) and labels are separated, and pixel values are normalized to improve model performance.
