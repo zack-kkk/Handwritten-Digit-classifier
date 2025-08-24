@@ -23,3 +23,5 @@ The model’s predictions are evaluated using a confusion matrix and a classific
 
 ## Visualization 
 Sample predictions with actual and predicted labels are displayed for better understanding.
+
+This project demonstrates the application of Deep Learning for image classification, showcasing steps from data preprocessing to model deployment readiness. It provides an excellent foundation for experimenting with optimization techniques like Dropout, EarlyStopping, and hyperparameter tuning to improve performance further.
