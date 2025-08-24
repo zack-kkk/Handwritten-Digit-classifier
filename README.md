@@ -6,7 +6,8 @@ This project demonstrates Handwritten Digit Recognition using a Neural Network b
 
 The workflow includes several key steps:
 
-Data Loading and Preprocessing – The dataset is loaded from a CSV file, features (pixel values) and labels are separated, and pixel values are normalized to improve model performance.
+# Data Loading and Preprocessing – 
+The dataset is loaded from a CSV file, features (pixel values) and labels are separated, and pixel values are normalized to improve model performance.
 
 Train-Test Split and Label Encoding – The data is split into training and testing sets, and the labels are converted into one-hot encoded format for multi-class classification.
 
